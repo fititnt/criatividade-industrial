@@ -1,3 +1,9 @@
+---
+layout: page
+title: Sobre
+permalink: /sobre.html
+---
+
 # Hipótese da Criatividade Industrial
 Hipótese da Criatividade Industrial é aplicação de engenharia memética focada
 em uso de criatividade onde um indivíduo, através de sua interação com

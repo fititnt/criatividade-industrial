@@ -2,11 +2,11 @@
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
+# yourself editing these this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
@@ -14,21 +14,26 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Hipótese da Criatividade Industrial
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#email: your-email@domain.com
+lang: pt
+description: >
+  Hipótese da Criatividade Industrial é aplicação de engenharia memética focada em uso de criatividade onde um indivíduo, através de sua interação com indústria, seja capaz de causar impacto positivo em sua comunidade, independente de governo.
+baseurl: "/criatividade-industrial" # the subpath of your site, e.g. /blog
+url: "https://fititnt.github.io" # url completa para o site. NÃO termine com barra
 twitter_username: fititnt
-github_username:  fititnt
+github_username:  fititnt/criatividade-industrial
+github_repository: fititnt/criatividade-industrial
+
+permalink: /:categories/:slug.html
+
+# Usado por jekyll-seo-tag
+author: "Emerson Rocha"
+#  twitter: webiwg
 
 # Build settings
 markdown: kramdown
 theme: minima
+
 gems:
-  - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
+  - jekyll-seo-tag
+  - jekyll-sitemap
