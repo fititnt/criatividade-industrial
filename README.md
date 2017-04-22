@@ -13,10 +13,24 @@ relação de esforço empregado.
 
 Esta hipótese assume que todos estão tentando dar seu melhor no seu trabalho
 (aqui _indústria_), que querem mudar o mundo (aqui _comunidade_) e almejam
-se sentir bem. Um objetivo dela é ver padrões individualmente replicáveis
-que permitam essas três afirmações por qualquer pessoa sem implicar em
-penalização das outras.
+se sentir bem. Um objetivo dela é ver parte de padrões individualmente
+replicáveis que permitam essas três afirmações serem acançadas por qualquer
+pessoa sem implicar em penalização das outras aspirações.
 
+## Foco
+
+Um objetivo é tornar uma pessoa sozinha capaz de influenciar produtividade e
+qualidade de vida de colegas na sua industria e, com tempo, na sua comunidade,
+de forma criativa. **Isso implica em pequenas industrias, até mesmo
+empresas-de-uma-pessoa-só**.
+
+Idealmente os memes aqui tem como foco ideal:
+
+- Não aumentar, nem mesmo imediatamente, custos financeiros (otimização vs 
+investimento direto de dinheiro)
+- Todo investimento deve ter retorno perceptível ao nível da própria pessoa
+que o aplica
+- Não requerer experiência prévia significativa dos implementadores
 
 ## Motivação
 Projeto iniciado a partir da [Hipótese de Rocha 16](https://github.com/fititnt/hipoteses-de-rocha)
