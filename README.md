@@ -32,6 +32,11 @@ investimento direto de dinheiro)
 que o aplica
 - Não requerer experiência prévia significativa dos implementadores
 
+## Conteúdo
+
+1. [Lista de Memes da Hipótese da Criatividade Industrial](memes/)
+2. [Lista de memes sobre o estudo da própria Hipótese da Criatividade Industrial](memetica/)
+
 ## Motivação
 Projeto iniciado a partir da [Hipótese de Rocha 16](https://github.com/fititnt/hipoteses-de-rocha)
 e fortemente baseado na [Hipótese da Criatividade Familiar](https://github.com/fititnt/criatividade-familiar).
