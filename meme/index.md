@@ -4,6 +4,20 @@ title:  "Lista de Memes da Hipótese da Criatividade Industrial"
 ---
 
 # Lista de Memes da Hipótese da Criatividade Industrial
+Memes são projetados para replicação. Idealmente devem ser simples para você
+nem mesmo precisar desse manual, ao ponto de parecer... óbvios! Ao estilo
+_por que não pensamos nisso antes?_. Alguns podem dar certo, outros não.
+
+A Hipótese da Criatividade Industrial como uma memética procura ser o mais
+básica possível e, idealmente, amoral mas não imoral. Vocễ pode copiar, adaptar
+sem nem mesmo citar a fonte e adicionar a moral que você deseja ou manter puro.
+
+Pessoas diferentes usam motivações diferentes. Caso você não resolva manter os
+memes puros, ao menos tenha certeza de não usar morais que você acredita que
+são as melhores, mas sim as que as pessoas da sua industria acreditariam serem
+melhores.
+
+## Lista
 
 _Sem informações neste momento_
 

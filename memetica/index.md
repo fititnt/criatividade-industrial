@@ -5,4 +5,4 @@ title:  "Lista de memes sobre o estudo da própria Hipótese da Criatividade Ind
 
 # Lista de memes sobre o estudo da própria Hipótese da Criatividade Industrial
 
-_Sem informações neste momento_
+1. [Readaptação moralista](1/readaptacao-moralista.md)
