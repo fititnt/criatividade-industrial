@@ -30,10 +30,11 @@ o próprio meme é menos perceptívelmente útil_
 
 1. **Poder adicionar moral não quer dizer que deveria adicionar moral.**
 2. Adição de moral, caso seja feita, deveria levar em consideração o contexto
-especial do grupo onde é replicada, tipicamente a industria
+especial do grupo onde é replicada, tipicamente o nível de industria em vez
+de unicamente a comunidade
 3. **Para combater um meme que você não acha ideal, crie um meme melhor em
 detrimento de simplesmente criticar**
-  - Por exemplo, no trabalho você percebe que as pessoas tomam café demais e
+    - Por exemplo, no trabalho você percebe que as pessoas tomam café demais e
 ficam menos produtivas nos dias seguintes; em vez de querer "mandar" nas pessoas
 sobre se elas devem ou não tomar café, você fornece um meme prático menor, como
 excercícios físicos que _acordam_ a pessoa, desde no início do trabalho como

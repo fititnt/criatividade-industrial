@@ -1,4 +1,37 @@
 # Hipótese da Criatividade Industrial
+**TL;DR: você, de forma criativa, fica mais feliz e produtivo a curto e longo
+prazo; a pequena empresa em que trabalha tem mais lucro em deixar você agindo
+assim; você causa mais impacto positivo na sua comunidade com menos estresse**
+
+Alguns exemplos de ações:
+
+- **Troca de conhecimento entre áreas diferentes ajudam a industria**
+  - Um trabalhador de informática senta ao lado de uma secretária e, ao perceber
+que ela poderia economizar tempo em tarefas repetitivas, a ajuda a usar filtros
+da caixa de e-mail, cria macros de planilha de dados, até leva pra gerencia
+oportunidades de melhorias na empresa inteira que a secretária sabe mas não é
+ouvida por _não ter experiência em informática_.
+- **Alteração na rotina da empresa para melhorar estado de alerta / produtividade
+pessoal / redução de estresse**
+  - Convencer colegas a fazer excercícios laborais sem sentir vergonha
+  - Estímulo a fazer alongamento no meio de um escritório
+  - Ao conversar entre colegas durante horário de trabalho ou descanço,
+estimular (ou ao menos não ver com maus olhos) massagens do tipo do-in que
+comprovadamente reduzem estresse. (além de estresse, isso melhora interação
+social, chance de cooperação em projetos de trabalho e vontade de permanecer
+na mesma pequena empresa em detrimento de outras)
+- **Considerar individualidade de pessoas nas ações de maior produtividade**
+  - Fazer menor rejeição a funcionários mudarem posição onde trabalham
+  - Quando possível, permitir ajustes nas cargas de horário do profissional 
+(chegar e sair mais cedo, chegar e sair mais tarde, trabalhar um dia da semana
+em casa, etc)
+
+_A HCI é baseada em comportamentos que dão muito certo em outras culturas, ou
+mesmo ações que funcionam bem em empresas grandes, para serem replicadas, mesmo
+que não de forma perfeita, em pequenas empresas._
+
+----
+
 Hipótese da Criatividade Industrial é aplicação de engenharia memética focada
 em uso de criatividade onde uma pessoa, através de sua interação com
 indústria, seja capaz de causar impacto positivo na comunidade, com retorno
