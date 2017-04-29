@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Evoluir a comunidade por exemplo industrial"
+title:  "Contribuir para comunidade como motivação adicional na Pesquisa & Desenvolvimento industrial"
 category: memetica
 ---
 
-# Contribuir com a comunidade como motivação adicional na _Pesquisa & Desenvolvimento_ industrial
+# Contribuir para comunidade como motivação adicional na _Pesquisa & Desenvolvimento_ industrial
 Um modo efetivo e eficiente de motivação adicional nas pessoas para pesquisa e
 desenvolvimento em uma indústria é o foco parcial ou total no retorno para
 comunidade.
