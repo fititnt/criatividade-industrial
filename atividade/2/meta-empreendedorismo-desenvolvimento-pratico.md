@@ -1,33 +1,32 @@
 ---
 layout: post
-title:  "Meta-empreendedorismo e/ou meta-desenvolvimento: aplicação prática ponta a ponta de produto real"
+title:  "Meta-empreendedorismo e/ou meta-desenvolvimento com aplicação prática ponta a ponta de produto real"
 category: atividade
 ---
 
-# Meta-empreendedorismo e/ou meta-desenvolvimento: aplicação prática ponta a ponta de produto real
+# Meta-empreendedorismo e/ou meta-desenvolvimento com aplicação prática ponta a ponta de produto real
 Esta atividade visa desenvolvimento de um produto inovador, necessariamente
 muito simples mas funcional, do início ao final de toda cadeia de pesquisa e
-desenvolvimento, inclusive uso pelo consumidor final. O máximo de etapas deverá
-ser realizada por um ou mais especialistas, que dentro da viabilidade devem
+desenvolvimento, inclusive uso pelo consumidor final. O máximo de etapas deveriam
+ser realizadas por um ou mais especialistas, que dentro da viabilidade devem
 escolher e ser mentor de um ou mais aprendizes para executar as ações em vez de
 fazê-las diretamente. As etapas individuais podem opcionalmente ser discutidas
 com profissionais de outras etapas, porém a única exigência é que deve haver
 alguma documentação mínima sobre as decisões tomadas, mesmo para tarefas em que
 a atuação do profissional já seja um entregável.
 
-Isto é, um profissional ou aprendiz de uma etapa, durante ou após o
-desenvolvimento do produto, deve ter acesso as demais etapas.
+Diferente de um [hackaton de software](https://pt.wikipedia.org/wiki/Hackathon)
+em que é comum o projeto ser disponibilizado apenas para etapa de avaliação de
+juízes e depois pode se tornar _apenas_ um repositório com código fonte publico,
+ou que dependeriam de financiamento para ir adiante, **esta atividade implica em
+ter um produto usável por ao menos um ciclo de vida**, sem apoio ou aprovação
+externa.
 
 ## Como escolher o produto
 Caso seja primeira vez que ao menos parte considerável da equipe fará esta
 atividade, **é extremamente recomendável que o produto seja simples** ou que,
 ao menos as etapas que seriam mais complexas e que demandem tempo, estejam sob
 responsabilidade de pessoa já experiente e já tenha realizado esse excercício.
-
-Diferente de um [hackaton de software](https://pt.wikipedia.org/wiki/Hackathon)
-em que é comum o projeto ser disponibilizado apenas para etapa de avaliação de
-juízes e depois pode se tornar _apenas_ um repositório com código fonte publico,
-**esta atividade quer um produto usável por ao menos um ciclo de vida**.
 
 Ótimas escolhas tendem a ter essas caracteristicas:
 
