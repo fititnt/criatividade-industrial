@@ -68,7 +68,8 @@ que o aplica
 ## Conteúdo
 
 1. [Lista de Memes da Hipótese da Criatividade Industrial](meme/index.md)
-2. [Lista de memes sobre o estudo da própria Hipótese da Criatividade Industrial](memetica/index.md)
+2. [Lista de Atividades da Hipótese da Criatividade Industrial](atividade/index.md)
+3. [Lista de memes sobre o estudo da própria Hipótese da Criatividade Industrial](memetica/index.md)
 
 ## Motivação
 Projeto iniciado a partir da [Hipótese de Rocha 16](https://github.com/fititnt/hipoteses-de-rocha)
