@@ -22,8 +22,34 @@ desenvolvimento do produto, deve ter acesso as demais etapas.
 
 O produto, embora real, é um meio, não a motivação principal desta atividade: 
 ele deve ser intencionalmente simples para que maior parte da energia de todos
-os profissionais envolvidos seja empregada
+os profissionais envolvidos seja empregada em re-avaliar como trabalha,
+possivelmente se otimizando, bem como ter mais chance de compreender mais fácil
+os demais colegas.
 
-1. Estímulo forte a socialização entre profissionais de diferentes habilidades
-em condições propícias para inovações que seriam inviáveis em outras condições
-3. Aprendizagem de outras etapas de ciclo de um produto
+Dentre os objetivos principais:
+
+1. **Socialização entre profissionais de diferentes habilidades**
+  - um produto simples permite incentivo a tomar consciência de como interagir
+com colegas já conhecidos ou novos
+  - possibilidade de ser mentor de um aprendiz
+  - possibilidade de, mesmo com anos de experiência em uma área, ser aprendiz
+de outro profissional em outra área
+2. **Consciêntização profunda de outras etapas de ciclo de um produto**
+  - especialistas terão mais consciência de outras áreas, não nescessariamente
+para passarem a ser multidisciplinares, mas em especial para entender seu papel
+de trabalho em equipe
+  - profissionais previamente multidisciplinares tem chance de se focar em uma
+etapa para treinarem melhor auto-eficiência; ao final podem rediscutir com
+demais decisões tomadas
+3. **Condições ideais para comparativos, testes práticos ou simples discussão de abstrações de conceitos (_meta-"nome-do-conceito"_)**
+  - metacognição, meta-aprendizagem...
+  - compartilhar experiências além das ações pro produto, mas como participantes
+conseguem ser mais eficiêntes para realizar seu trabalho (uso de musicoterapia,
+medicação, sono restaurador no meio da tarde...)
+
+## Leitura extra recomendada
+
+Dentro da Hipótese da Criatividade Industrial é recomendado a leitura de:
+
+- [Impulsionar evolução na comunidade via exemplo industrial](../../memetica/4/impulsionar-comunidade-pelo-exemplo-industrial.md)
+- [Contribuir para comunidade como motivação adicional na _Pesquisa & Desenvolvimento_ industrial](../../memetica/2/contribuir-comunidade-incentiva-ped.md)
