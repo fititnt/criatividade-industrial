@@ -62,7 +62,7 @@ com colegas já conhecidos ou novos
     - possibilidade de ser mentor de um aprendiz
     - possibilidade de, mesmo com anos de experiência em uma área, ser aprendiz
 de outro profissional em outra área
-2. **Consciêntização profunda de outras etapas de ciclo de um produto**
+2. **Conscientização profunda de outras etapas de ciclo de um produto**
     - especialistas terão mais consciência de outras áreas, não nescessariamente
 para passarem a ser multidisciplinares, mas em especial para entender seu papel
 de trabalho em equipe

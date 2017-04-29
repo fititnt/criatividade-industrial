@@ -5,7 +5,7 @@ assim; você causa mais impacto positivo na sua comunidade com menos estresse**
 
 Alguns exemplos de ações:
 
-- **Troca de conhecimento entre áreas diferentes ajudam a industria**
+- **Troca de conhecimento entre áreas diferentes ajudam a indústria**
   - Um trabalhador de informática senta ao lado de uma secretária e, ao perceber
 que ela poderia economizar tempo em tarefas repetitivas, a ajuda a usar filtros
 da caixa de e-mail, cria macros de planilha de dados, até leva pra gerencia
@@ -53,7 +53,7 @@ pessoa sem implicar em penalização das outras aspirações.
 ## Foco
 
 Um objetivo é tornar uma pessoa sozinha capaz de influenciar produtividade e
-qualidade de vida de colegas na sua industria e, com tempo, na sua comunidade,
+qualidade de vida de colegas na sua indústria e, com tempo, na sua comunidade,
 de forma criativa. **Isso implica em pequenas industrias, até mesmo
 empresas-de-uma-pessoa-só**.
 
