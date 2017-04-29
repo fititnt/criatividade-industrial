@@ -32,4 +32,5 @@ comparação, até para interessados pesquisarem a respeito._
 ### Corporativismo
 Não confundir com [corporativismo (link externo)](https://pt.wikipedia.org/wiki/Corporativismo).
 Este conceito está mais próximo de, por exemplo, ajudar outras empresas serem
-eficiêntes, sem prejudicar
+eficiêntes sem que isso implique em prejudicar outros setores industriais ou
+a própria comunidade.
