@@ -37,6 +37,37 @@ de servidores para suportar desde apenas poucos jogadores, com gasto baixo
 mensal, como até mesmo estratégia para suportar quantidade extremamente alta de
 jogadores online, deveria ter atenção especial.
 
+## O produto (para a comunidade)
+A ideia aqui é ir além: se hoje é comum alguns softwares serem desenvolvidos por
+indivíduos ou pequenos grupos e seu código fonte liberado para ajudar e receber
+ajuda da comunidade, nesta implementação da [Atividade 2 da HCI]](meta-empreendedorismo-desenvolvimento-pratico.md)
+o foco é de do processo de empreendimento inteiro, da concepção da ideia até
+o contato com publico final.
+
+Emerson Rocha e diversos colegas estão preocupados com a competitividade do
+Brasil a nível internacional, e diversas colegas experiêntes estão apontando
+para comportamentos culturais enraizados na forma como profissionais entendem as
+relações de trabalho. Esta proposta foi motivada por conversas privadas
+decorrentes da discussão em um fórum de desenvolvedores de software, que pode
+ser lida em [Considerando lado da empresa: o que mudar na cultura dos
+desenvolvedores para aumentar competitividade do Brasil? #555](https://github.com/frontendbr/forum/issues/555).
+
+O _ponto de vista filosófico_, ou _pensando como comunidade Brasil a longo
+prazo_ é melhor trabalhos relacionados a criatividade e alta tecnologia, ou
+mesmo indústria de base. [O Brasil, mesmo com aumento de salários e
+diploma universitário não está aumentando produtividade comparado a outros
+paises](https://github.com/frontendbr/forum/issues/543#issuecomment-297220525),
+o que é preocupante a longo prazo considerando envelhecimento da população. Um
+motivo especial para que todo processo seja aberto e didático, onde
+profissionais de áreas diferentes de exclusivamente desenvolvimento de software
+documentem suas etapas é inspirar outros profissionais a seguirem um modelo
+colaborativo que gere lucro para pequenas empresas ou parcerias ou mesmo
+[empreendimento conjunto (_joint venture_) de industrias](../../memetica/empreendimento-conjunto.md).
+
+Pode-se imaginar que isto é sobre meta-empreendedorismo. Não quer dizer que os
+participantes devem deixar extremamente detalhados seu processo de trabalho,
+pois é para inspirar os demais.
+
 <!--
 ## O produto (para a equipe que faz parte)
 O jogo simples desenvolvido  não deve ser um [Produto Mínimo Viável](https://pt.wikipedia.org/wiki/Produto_vi%C3%A1vel_m%C3%ADnimo)
