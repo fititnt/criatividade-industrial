@@ -15,3 +15,8 @@ compreender e colaborar na memética da Hipótese da Criatividade Industrial.
 Como a HCI é voltada para re-educação criativa de brasileiros os memes
 derivados deste conceito são especialmente úteis para aqueles que não tem
 contato prévio com ambiente de _startups_.
+
+## Relações
+
+### Cartel
+Não confundir com [cartel (link externo)](https://pt.wikipedia.org/wiki/Cartel).
