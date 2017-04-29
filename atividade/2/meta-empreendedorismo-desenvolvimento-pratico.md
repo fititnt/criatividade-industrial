@@ -18,6 +18,35 @@ a atuação do profissional já seja um entregável.
 Isto é, um profissional ou aprendiz de uma etapa, durante ou após o
 desenvolvimento do produto, deve ter acesso as demais etapas.
 
+## Como escolher o produto
+Caso seja primeira vez que ao menos parte considerável da equipe fará esta
+atividade, **é extremamente recomendável que o produto seja simples** ou que,
+ao menos as etapas que seriam mais complexas e que demandem tempo, estejam sob
+responsabilidade de pessoa já experiente e já tenha realizado esse excercício.
+
+Diferente de um [hackaton de software](https://pt.wikipedia.org/wiki/Hackathon)
+em que é comum o projeto ser disponibilizado apenas para etapa de avaliação de
+juízes e depois pode se tornar _apenas_ um repositório com código fonte publico,
+**esta atividade quer um produto usável por ao menos um ciclo de vida**.
+
+Ótimas escolhas tendem a ter essas caracteristicas:
+
+- Implementação tecnológica é simples ou extremamente simples, porém a
+ideia por trás dessa implementação poderia ser inovadora para equipe desenvolve
+(mesmo mentores/coordenadores)
+- Se aplicável, ciclo de vida deve ser de 3 anos ou mais
+  - toda logistica deve considerar preços e manutenção compra de domínios na
+    internet, hospedagem de aplicativo, manutenção de segurança, etc
+  - após o ciclo de vida mínimo, o produto pode se "arquivado", mas idealmente
+    ainda deve haver algum local público que aborde que ele existiu, até mesmo
+    divulgando código fonte, caso exista e seja de interesse da equipe divulgar
+- Se aplicável, deve ser usável mesmo sem depender de aceitação de público para
+  ser viável, não apenas financeiramente, como também para _fazer sentido ser
+  usada_
+  - Esse ponto pode tornar menos interessante ideias relacioandas a criar rede
+    social, ou que dependa de pessoas expontâneamente criar conteúdo
+- _TODO: adicionar aqui outras caracteristicas (fititnt, 2017-04-29 05:05)_
+
 ## Objetivos
 
 O produto, embora real, é um meio, não a motivação principal desta atividade: 
@@ -29,23 +58,23 @@ os demais colegas.
 Dentre os objetivos principais:
 
 1. **Socialização entre profissionais de diferentes habilidades**
-  - um produto simples permite incentivo a tomar consciência de como interagir
+    - um produto simples permite incentivo a tomar consciência de como interagir
 com colegas já conhecidos ou novos
-  - possibilidade de ser mentor de um aprendiz
-  - possibilidade de, mesmo com anos de experiência em uma área, ser aprendiz
+    - possibilidade de ser mentor de um aprendiz
+    - possibilidade de, mesmo com anos de experiência em uma área, ser aprendiz
 de outro profissional em outra área
 2. **Consciêntização profunda de outras etapas de ciclo de um produto**
-  - especialistas terão mais consciência de outras áreas, não nescessariamente
+    - especialistas terão mais consciência de outras áreas, não nescessariamente
 para passarem a ser multidisciplinares, mas em especial para entender seu papel
 de trabalho em equipe
-  - profissionais previamente multidisciplinares tem chance de se focar em uma
+    - profissionais previamente multidisciplinares tem chance de se focar em uma
 etapa para treinarem melhor auto-eficiência; ao final podem rediscutir com
 demais decisões tomadas
 3. **Condições ideais para comparativos, testes práticos ou simples discussão de abstrações de conceitos (_meta-"nome-do-conceito"_)**
-  - metacognição, meta-aprendizagem...
-  - compartilhar experiências além das ações pro produto, mas como participantes
-conseguem ser mais eficiêntes para realizar seu trabalho (uso de musicoterapia,
-medicação, sono restaurador no meio da tarde...)
+    - metacognição, meta-aprendizagem...
+    - compartilhar experiências além das ações pro produto, mas como
+participantes conseguem ser mais eficiêntes para realizar seu trabalho (uso de
+musicoterapia, medicação, sono restaurador no meio da tarde...)
 
 ## Leitura extra recomendada
 
