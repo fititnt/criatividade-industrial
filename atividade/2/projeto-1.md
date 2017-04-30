@@ -41,6 +41,30 @@ por lucro ou doações, os participantes são convidados a não fazer redirada
 
 ## O produto
 
+### Divisão de tarefas
+
+A divisão de tarefas/etapas deverá ser feita conforme a equipe base for formada.
+O mínimo viável seria um colega anônimo responsável pelo aplicatívo móvel do
+jogo usando linguagem C# e a [plataforma Unity3D](https://unity3d.com/pt/)
+enquanto Emerson Rocha se encarrega da parte de servidores, infraestrutura e
+programação na [plataforma NodeJS](https://nodejs.org).
+
+Uma forma _educativa_ caso encontremos pessoas suficientes seria usar um
+processo parecido com [storytelling](https://en.wikipedia.org/wiki/Storytelling)
+para documentar o processo inteiro, de forma que profissionais que não entendam
+de uma das áreas saibam o mínimo sobre ela. Essa abordagem pode ser muito útil
+para incentivar colaboração, ou mesmo contratação, de profissionais de outras
+áreas na hora de desenvolvimento de um produto ou jogo, visto que muito se perde
+hoje em dia com bons produtos com propaganda pouco eficiente ou simplesmente
+meses de desenvolvimento com produtos que não tiveram alguma pesquisa de
+mercado.
+
+Partes que forem omitidas por falta de pessoal (como por exemplo, testes com
+usuários antes de lançamento) ou necessidade (pesquisa séria de mercado)
+poderiam ser ao menos avisadas do porque foram omitidas ou, com nota de rodapé
+avisando, criar uma narrativa fansasiosa ou exagerada, de modo a consciêntizar
+de que tais ações são mais comuns em produtos mais complexos.
+
 ### Ponto de vista do consumidor final
 O produto ao consumidor final será um jogo de celular online para dois ou mais
 jogadores.
@@ -139,8 +163,6 @@ oportunidade para discutir, ensinando e aprendendo.
 
 Essas vantagens do processo aberto são uma das motivações para que o produto
 seja simples e não tenha interesse de lucros para os participantes, pois
-implicaria em ter menos ajuda.
-
-Além disso, é previsível que essa movimentação toda gere interesse em criar
-ideias semelhantes, ainda que não abertas a toda comunidade, e com fins
-lucrativos.
+implicaria em ter menos ajuda. Por outro lado é previsível que essa
+movimentação toda gere interesse em criar ideias semelhantes, ainda que não
+abertas a toda comunidade, e com fins lucrativos.
