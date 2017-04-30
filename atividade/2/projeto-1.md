@@ -35,7 +35,7 @@ esta ideia dura semanas ou meses, pois se ajusta ao tempo livre de participantes
 4. Não há uma organização para avaliar o resultado: os próprios participantes se gerenciam
 5. O produto não é um conceito ou implementação MVP que precisa ser investido;
 já é um produto final, ainda que simples
-6. Participação não irá gerar qualquer tipo de pagamento aos participantes de
+6. Participação **não irá gerar qualquer tipo de pagamento aos participantes** de
 forma direta, e, mesmo que o produto possa gerar algum retorno financeiro,
 por lucro ou doações, os participantes são convidados a não fazer redirada
 
@@ -85,41 +85,62 @@ documentem suas etapas é inspirar outros profissionais a seguirem um modelo
 colaborativo que gere lucro para pequenas empresas ou parcerias ou mesmo
 [empreendimento conjunto (_joint venture_) de industrias](../../memetica/empreendimento-conjunto.md).
 
+### Ponto de vista da equipe ativa
+A equipe base será de profissionais que já tenham experiência significativa nas
+respectivas áreas de atuação, como uma década ou mais. Como é um projeto
+experimental, serão convidados por indicação, em especial para alinhar com as
+ideias, potencialmente alterando pontos previamente descritos aqui.
+
 Pode-se imaginar que isto é sobre meta-empreendedorismo e meta-desenvolvimento
 de produto. Os participantes diretos colaboram e tem contato via reuniões com
-os demais, porém mesmo para aqueles que observarem de fora, os participantes
+os demais, porém mesmo para aqueles que observarem de fora, os membros
 devem se responsabilizar por documentar minimamente o que fizeram, mais do
 ponto de vista de servir como inspiração do que ser extremamente detalhado.
 
-### Ponto de vista da equipe ativa
-Diferente de outros projetos colaborativos, onde Emerson Rocha costuma
-aconselhar/patrocinar profissionais mais jovens, inclusive como mentor
-em projetos como [Google Summer of
-Code](https://developers.google.com/open-source/gsoc/), este é o primeiro onde
-o foco será profissionais com tempo de carreira equivalente ou muito superior.
+**As decisões estratégicas, ou mesmo implementações técnicas, não
+necessariamente representarão a "melhor prática" ou "modo mais eficiente" de
+realizar tal ação**. Há, inclusive, incentivo para usar o projeto como
+experimento de técnicas que normalmente não seriam feitas em projetos do dia a
+dia. Mesmo que ao documentar uma etapa houver feedback da comunidade de forma
+mais eficiente, dependendo do cronograma de desenvolvimento isso poderá ficar
+como sugestão para projetos futuros.
 
-Continuar...
+É esperável que haja troca de ajudas técnicas entre os participantes, como por
+exemplo explicar para não desenvolvedores de software como é a parte de gerência
+da produção do software, inclusive com ajuda para entender mais sobre "git",
+"github", "o que é um aplicativo mível", "diferenças entre aplicativo nativo e
+híbrido". Por outro lado, outros profissionais podem ajudar os demais
+a melhorar sua presença na internet, relação com contatos, etc. Esse tipo de
+colaboração pessoa-a-pessoa não é algo que seja documentado para entregar para
+comunidade, pois é na pratica uma aula particupar.
 
-<!--
-## O produto (para a equipe que faz parte)
-O jogo simples desenvolvido  não deve ser um [Produto Mínimo Viável](https://pt.wikipedia.org/wiki/Produto_vi%C3%A1vel_m%C3%ADnimo)
-que pode passar por melhorias: ele idealmente deve ser o produto final. Este
-projeto deve ter _um fim_, onde pessoas envolvidas em todas as etapas devem
-documentar, ainda que em forma de simples, como fez seu trabalho
+_Nota: profissionais da equipe base poderão optar por manter seu nome anônimo
+nas referências públicas de sua participação._
 
+## Escolha de profissionais para serem mentorados
+A equipe base poderá entrar em acordo quem, quantos e como serão candidados
+para participar de uma ou mais etapas do desenvolvimento sob supervisão
+(mentoria) dos demais.
 
+Da mesma forma que profissionais mais experiêntes usarão esse projeto para
+melhorar seu conhecimento em outras áreas de desenvolvimento de produto, bem
+como melhorar rede de contatos, pode ser especialmente útil para indicados que
+querem ter experiência prática participar em um projeto como esse.
 
+## Vantagem de processo aberto
+Uma vantagem de ter um processo aberto de desenvolvimento de produto,
+publicamente documentado é que isso pode gerar mais feedback de pessoas que não
+fazem parte da equipe. Alguns poderão fazer pedidos de feedback em comunidades
+fechadas como um grupo no Facebook ou o grupo de WhatsApp do pessoal que joga
+futebol no final de semana, explicando projeto. Outros poderão aproveitar a
+ideia aberta para trocar ajudas com um colega que trabalha em uma empresa
+concorrênte mas que, como é algo "para o bem do povo" poderá aproveitar a
+oportunidade para discutir, ensinando e aprendendo.
 
+Essas vantagens do processo aberto são uma das motivações para que o produto
+seja simples e não tenha interesse de lucros para os participantes, pois
+implicaria em ter menos ajuda.
 
-O desenvolvimento de
-código seja o mais
-simples possível (_do ponto de vista de linhas de código_) e, ainda assim,
-o possível resultado final tenda a ser algo jogável e funcional.
-
-
-
-
-
-
-## Dos participantes convidados ativos
--->
+Além disso, é previsível que essa movimentação toda gere interesse em criar
+ideias semelhantes, ainda que não abertas a toda comunidade, e com fins
+lucrativos.
