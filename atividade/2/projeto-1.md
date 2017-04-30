@@ -20,7 +20,28 @@ foco é:
 3. Condições ideais para comparativos, testes práticos ou simples discussão de
 abstrações de conceitos
 
-## O produto (para o consumidor final)
+## Comparação com hackatons
+O conceito mais parecido com esta proposta são os [Hackathons / hack day / hackfest](https://pt.wikipedia.org/wiki/Hackathon).
+Algunas diferenças mais comuns:
+
+1. Hackathons focam em produto; este meta-empreendedorismo e/ou
+meta-desenvolvimento foca no processo de fazer produtos, usando como base um
+produto que deverá ser implementação real
+2. Maior parte dos participantes não serão desenvolvedores de software, pois
+um dos objetivos é justamente integração entre diferentes áreas incomuns em
+hackatons típicos.
+3. Enquanto Hackathons tendem a ser por algumas horas, ou no máximo alguns dias,
+esta ideia dura semanas ou meses, pois se ajusta ao tempo livre de participantes
+4. Não há uma organização para avaliar o resultado: os próprios participantes se gerenciam
+5. O produto não é um conceito ou implementação MVP que precisa ser investido;
+já é um produto final, ainda que simples
+6. Participação não irá gerar qualquer tipo de pagamento aos participantes de
+forma direta, e, mesmo que o produto possa gerar algum retorno financeiro,
+por lucro ou doações, os participantes são convidados a não fazer redirada
+
+## O produto
+
+### Ponto de vista do consumidor final
 O produto ao consumidor final será um jogo de celular online para dois ou mais
 jogadores.
 
@@ -37,15 +58,15 @@ de servidores para suportar desde apenas poucos jogadores, com gasto baixo
 mensal, como até mesmo estratégia para suportar quantidade extremamente alta de
 jogadores online, deveria ter atenção especial.
 
-## O produto (para a comunidade)
+### Ponto de vista para a comunidade
 A ideia aqui é ir além: se hoje é comum alguns softwares serem desenvolvidos por
 indivíduos ou pequenos grupos e seu código fonte liberado para ajudar e receber
-ajuda da comunidade, nesta implementação da [Atividade 2 da HCI]](meta-empreendedorismo-desenvolvimento-pratico.md)
+ajuda da comunidade, nesta implementação da [Atividade 2 da HCI](meta-empreendedorismo-desenvolvimento-pratico.md)
 o foco é de do processo de empreendimento inteiro, da concepção da ideia até
 o contato com publico final.
 
-Emerson Rocha e diversos colegas estão preocupados com a competitividade do
-Brasil a nível internacional, e diversas colegas experiêntes estão apontando
+Os profissionais que estão propondo isso estão preocupados com a competitividade do
+Brasil a nível internacional, e diversas colegas experientes estão apontando
 para comportamentos culturais enraizados na forma como profissionais entendem as
 relações de trabalho. Esta proposta foi motivada por conversas privadas
 decorrentes da discussão em um fórum de desenvolvedores de software, que pode
@@ -53,20 +74,31 @@ ser lida em [Considerando lado da empresa: o que mudar na cultura dos
 desenvolvedores para aumentar competitividade do Brasil? #555](https://github.com/frontendbr/forum/issues/555).
 
 O _ponto de vista filosófico_, ou _pensando como comunidade Brasil a longo
-prazo_ é melhor trabalhos relacionados a criatividade e alta tecnologia, ou
-mesmo indústria de base. [O Brasil, mesmo com aumento de salários e
+prazo_ é melhor aumento de trabalhos relacionados a criatividade e alta tecnologia, ou
+mesmo indústria de base. [O Brasil, mesmo com aumento de salários e número de
 diploma universitário não está aumentando produtividade comparado a outros
 paises](https://github.com/frontendbr/forum/issues/543#issuecomment-297220525),
-o que é preocupante a longo prazo considerando envelhecimento da população. Um
-motivo especial para que todo processo seja aberto e didático, onde
+o que é preocupante a longo prazo considerando envelhecimento da população. Isso
+reforça o motivo especial para que todo processo seja aberto e didático, onde
 profissionais de áreas diferentes de exclusivamente desenvolvimento de software
 documentem suas etapas é inspirar outros profissionais a seguirem um modelo
 colaborativo que gere lucro para pequenas empresas ou parcerias ou mesmo
 [empreendimento conjunto (_joint venture_) de industrias](../../memetica/empreendimento-conjunto.md).
 
-Pode-se imaginar que isto é sobre meta-empreendedorismo. Não quer dizer que os
-participantes devem deixar extremamente detalhados seu processo de trabalho,
-pois é para inspirar os demais.
+Pode-se imaginar que isto é sobre meta-empreendedorismo e meta-desenvolvimento
+de produto. Os participantes diretos colaboram e tem contato via reuniões com
+os demais, porém mesmo para aqueles que observarem de fora, os participantes
+devem se responsabilizar por documentar minimamente o que fizeram, mais do
+ponto de vista de servir como inspiração do que ser extremamente detalhado.
+
+### Ponto de vista da equipe ativa
+Diferente de outros projetos colaborativos, onde Emerson Rocha costuma
+aconselhar/patrocinar profissionais mais jovens, inclusive como mentor
+em projetos como [Google Summer of
+Code](https://developers.google.com/open-source/gsoc/), este é o primeiro onde
+o foco será profissionais com tempo de carreira equivalente ou muito superior.
+
+Continuar...
 
 <!--
 ## O produto (para a equipe que faz parte)
